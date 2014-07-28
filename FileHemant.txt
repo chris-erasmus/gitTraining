@@ -1,13 +1,12 @@
-<<<<<<< HEAD
-Piyush
-Hemant
-India
-Stars
-=======
 
 Piyush
 Hemant
 India
+Stars
+Piyush
+Hemant
+India
 South Africa
->>>>>>> bf57cc28149d6b4a420a0ae6e039cbf0030d9414
+Delhi
+
 
